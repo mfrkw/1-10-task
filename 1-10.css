@@ -30,21 +30,21 @@ main {
 
 .item1 {
   height: 150px;
-  background-image: url(https://github.com/mfrkw/1-10-task/blob/main/flow01.png?raw=true);
+  background-image: url(images/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .item2 {
   height: 150px;
-  background-image: url(https://github.com/mfrkw/1-10-task/blob/main/flow02.png?raw=true);
+  background-image: url(images/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .item3 {
   height: 150px;
-  background-image: url(https://github.com/mfrkw/1-10-task/blob/main/flow03.png?raw=true);
+  background-image: url(images/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
@@ -72,11 +72,8 @@ footer {
   main {
     width: 100%;
     display: block;
-  }git
-
-  .item:first-child {
-    margin-top: 50px;
   }
+
 
   .item {
     width: 90%;
